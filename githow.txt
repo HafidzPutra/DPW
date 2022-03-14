@@ -1,0 +1,9 @@
+jika anda merubah kodingan anda, maka
+> terminal
+    > new terminal
+        klik "+ v"
+            > git bash
+                ketik "$ git status" lalu enter (cek ada perubahan)
+                ketik "$ git add ." lalu enter
+                ketik "$ git commit -m "second attempt" lalu enter
+                ketik "$ git push -u origin master" lalu enter
