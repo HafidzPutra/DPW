@@ -1,0 +1,54 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Praktikum 1</title>
+</head>
+<body>
+    <h1>Hello World</h1>
+    <h2>Hello World</h2>
+    <h3>Hello World</h3>
+    <h4>Hello World</h4>
+    <h5>Hello World</h5>
+    <h6>Hello World</h6>
+    <!--  ctrl slash = comment , doc for html template -->
+    <!-- paragraph -->
+    <p>qwertyuiopasdfghjklzxcvbnm
+        <br>1234567890</br>
+    </p>
+    <!-- ordered / unordered list -->
+    <ol>
+        <li>aaaaa</li>
+        <li>bbbbb</li>
+        <li>ccccc</li>
+    </ol>
+    <ol type="a">
+        <li>aaaaa</li>
+        <li>bbbbb</li>
+        <li>ccccc</li>
+    </ol>
+    <ul>
+        <li>xxxxx</li>
+        <li>yyyyy</li>
+        <li>zzzzz</li>
+        <!-- alt shift to copy lines below -->
+    </ul>
+    <ol>
+        <li>test test</li>
+        <ul>
+            <li>test</li>
+            <li>test</li>
+            <li>test</li>
+        </ul>
+    </ol>
+    <!-- text formatting and colors -->
+    <p><u>Test</u> <strong>Test</strong> <i>Test</i></p>
+    <font color="green">Test Test</font>
+    <!-- anchor hyperlink -->
+    <a target="_blank" href="google.com">Klik disini<br></br></a>
+    <!-- image -->
+    <img src="frontend/images/testgambar.png" alt="Logo">
+    <!-- tugasss!!!! -->
+</body>
+</html>
